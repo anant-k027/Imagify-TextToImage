@@ -9,9 +9,10 @@ Imagify is an AI-powered image generating web application built on MERN stack. I
 ---
 
 ## Features
-- AI-based image generation using the Clipdrop API.
-- User authentication system with login and signup functionality.
+- Intelligent image creation powered by the Clipdrop API.
 - Clean and modern user interface.
+- Built-in user access control with sign-up and login features.
+- Minimalistic and clean UI, focusing on simplicity and user experience.
 
 ---
 
@@ -89,16 +90,3 @@ npm run dev
 
 ---
 
-## Environment Variables Summary
-
-### Server Folder
-- `MONGODB_URI`: MongoDB connection string.
-- `JWT_SECRET`: Secret key for JSON Web Token.
-- `CLIPDROP_API`: API key for the Clipdrop API.
-
-### Client Folder
-- `VITE_BACKEND_URL`: URL of the server application.
-
----
-
-Feel free to reach out for further assistance or feature suggestions!
