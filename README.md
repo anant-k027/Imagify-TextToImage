@@ -1,4 +1,4 @@
-# Imagify
+# Imagify - TextToImage
 
 ## Live Demo
 [Click here to view the live demo](https://imagify-shozab.vercel.app/) <!-- Replace # with the actual live demo link -->
