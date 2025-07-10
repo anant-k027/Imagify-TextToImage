@@ -10,7 +10,6 @@ Imagify is an AI-powered image generating web application built on MERN stack. I
 
 ## Features
 - Intelligent image creation powered by the Clipdrop API.
-- Clean and modern user interface.
 - Built-in user access control with sign-up and login features.
 - Minimalistic and clean UI, focusing on simplicity and user experience.
 
